@@ -10,7 +10,6 @@
 - 📫 Reach me: [twitter.com/PratikPatel_227](https://twitter.com/PratikPatel_227)
 - 😄 Pronouns: He/Him
 - 🔗 Personal website: https://pratik-patel.netlify.app/
-- NFT's - https://opensea.io/collection/dashboards
 
 ---
 
