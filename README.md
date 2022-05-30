@@ -38,3 +38,4 @@
 
 ---
 
+<script src="https://github.com/pratik227/pratik227/tree/main/dist/pratik227_2021.stl"></script>
