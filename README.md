@@ -14,13 +14,6 @@
 
 ---
 
-# Contributions
-
-![GitHub Snake Light](dist/Contribution.svg?raw=true#gh-light-mode-only)
-![GitHub Snake dark](dist/Contribution.svg?raw=true#gh-dark-mode-only)
-
----
-
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
