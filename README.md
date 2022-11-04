@@ -5,7 +5,7 @@
 - 🏢 I'm currently working on open-source projects (**Quasar framework and Vue.js**)
 - ⛴ I'm hardcore Quasar framework / Vue.js guy
 - 💬 Ping me about **Vue**, **Quasar Framework**, **Python-flask framework**, **JavaScript**, **Angularjs**, **AWS Lambda**, **AWS Honeycode**
-- 🌴 Love contributing in Open Source specially in Quasar Framework
+- 🌴 Love contributing in Open Source specially in Quasar Framework and Vue js
 - 💖 Sponsor me to support my open source work. https://github.com/sponsors/pratik227
 - 📫 Reach me: [twitter.com/PratikPatel_227](https://twitter.com/PratikPatel_227)
 - 😄 Pronouns: He/Him
