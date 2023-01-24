@@ -12,7 +12,7 @@
 - 🔗 Personal website: https://pratik-patel.netlify.app/
 - https://www.buymeacoffee.com/pratik227
 
----
+<!-- ---
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -29,4 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik227&layout=compact" />
 </div>
 
----
+--- -->
